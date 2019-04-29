@@ -1,3 +1,4 @@
+<quill-editor class="ql-editor"> 
 # DSAI hw2
 
 模型結構: lstm64->lstm64->lstm64_state->lstm64->fc  
@@ -11,7 +12,7 @@ validation size: 30000
 每10個epoch 輸出一次測試結果  
 
 # accuracy
-在不同 digits 下, validation data 的準確率  
+>在不同 digits 下, validation data 的準確率  
           |d = 3|d = 4|d = 5|  
 adder     | 99% | 99% | 98% |  
 subtractor| 99% | 99% | 98% |  
