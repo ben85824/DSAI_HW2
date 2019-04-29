@@ -13,7 +13,7 @@ validation size: 30000
 
 # accuracy
 在不同 digits 下, validation data 的準確率  
-          |d = 3|d = 4|d = 5|  
+&nbsp;          |d = 3|d = 4|d = 5|  
 adder     | 99% | 99% | 98% |  
 subtractor| 99% | 99% | 98% |  
 add+sub   | 99% | 98% | 97% |  
